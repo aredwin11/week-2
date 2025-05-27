@@ -1,3 +1,7 @@
 making changes in the file
 updated file
+<<<<<<< HEAD
 this is updated from branch1 again
+=======
+this is updated from branch2
+>>>>>>> 7ec2730 (b2 updated)
